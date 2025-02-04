@@ -8,7 +8,9 @@ This repository contains a variety of Python exercises that I have completed dur
 - [Object-Oriented Programming (OOP) Examples](#object-oriented-programming-oop-examples)
 - [Bank Account Class Example](#bank-account-class-example)
 - [How to Contribute](#how-to-contribute)
-- [Contact](#contact)
+- Emanuel Restrepo
+  -+55 2196529 2925 | emadavresgar@icloud.com |
+  -https://www.linkedin.com/in/emanuelrestrepo/
 
 ## Basic Python Exercises
 
@@ -74,3 +76,16 @@ account1.display_account_info()
 account1.check_balance()
 account2.display_account_info()
 account2.check_balance()
+
+
+
+## Overview
+
+### Key Points:
+- **Title and Description**: They highlight both the beginner and advanced stages of the repository and your intent to keep improving.
+- **Code Example**: The Bank Account code example demonstrates your knowledge of OOP principles, like classes, methods, and basic logic.
+- **Structure**: The Markdown file is structured with sections to make it easy for recruiters to navigate and understand the content.
+- **Future Updates**: The repository will continue to grow with more advanced projects and improvements.
+
+These points summarize the overall structure and purpose of the repository and serve as a roadmap for your ongoing work.
+
